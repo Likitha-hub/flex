@@ -1,0 +1,119 @@
+.parent-container{
+    /* background-color:blueviolet; */
+    /* height: 800px;
+    width:700px; */
+    text-align: center;
+    display: flex;
+    border-radius: 2%;
+    flex-wrap: nowrap;
+   
+  
+   
+  
+  
+
+}
+ body{
+    background-color:blueviolet;
+
+} 
+
+  
+ h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bolder;
+    color:white;;
+     padding-top: 2%;
+      text-align: center; 
+
+  
+   
+    
+
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    color:white;
+     padding-top: 3%; 
+    text-align: center;
+}  
+
+.one{
+    background-color:whitesmoke;
+    width: 300px;
+    height: 400px;
+    margin-top: 8%;
+    margin-left: 15%;
+    border-radius: 2%;
+   
+   
+}
+.two{
+    background-color:whitesmoke;
+    width: 300px;
+    height: 400px;
+    margin-top:8%;
+    border-radius: 2%;
+    margin-left:2%;
+   
+   
+
+   
+} 
+.three{
+
+    background-color:whitesmoke;
+    width: 300px;
+    height: 400px;
+    border-radius: 2%;
+    margin-left:2%;
+    margin-top:8%;
+
+  
+
+}  
+h3{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+b{
+    font-size: 30px;
+    font-weight: bolder;
+    color:blueviolet;
+}
+
+button{
+    background-color:blueviolet;
+    height: 40px;
+    width: 100px;
+    a{
+        color: white;
+        
+    }
+
+}
+a{
+    color:blueviolet;
+    font-weight: bold;
+
+}
+h4{
+    background-color:lightsteelblue;
+    width: 200px;
+    height:50px;
+    font-size: large;
+    font-weight: bolder;
+    margin-top: 0%;
+    margin-left:20%;
+
+
+}
+
+

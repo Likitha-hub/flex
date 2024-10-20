@@ -1,0 +1,117 @@
+.first{
+
+    display: flex;
+    flex-direction: row;
+    background: whitesmoke;
+    height:45px;
+    padding:20px; 
+   
+    img{
+        margin-top: -1%;
+    }
+    
+   
+}
+.button{
+    padding-left: 20px;
+   border: 0;
+   font-style:normal;
+}
+
+
+button{
+    padding-left: 50px;
+    margin-bottom: 20px;
+    font-style: italic;
+    border-radius: 30px;
+    font-size: medium;
+    
+    .fa-solid.fa-magnifying-glass{
+        color: lightslategray;
+       padding-left: 70px;
+       
+       
+        
+    }
+
+}
+.fa-solid.fa-circle-half-stroke{
+   padding: 10px;
+   font-size:30px;
+   margin-left: 35%;
+}
+
+.one{
+margin-left:-1%;
+margin-top: -1%;
+}
+
+
+.two{
+margin-left:12%;
+margin-top: 0%;
+color: black;
+font-family: sans-serif;
+text-transform: capitalize;
+
+
+p{
+    color: white;
+    
+}
+.fa-solid.fa-cart-shopping{
+    color: white;
+}
+/* span{
+  color: blueviolet;
+   
+}  */
+/* .fa.fa-code{
+  background-color:color: rgb(189, 133, 241);
+
+} */
+}
+
+
+
+.second{
+    
+    display: flex; 
+    background:rgb(41, 40, 40);
+    height:30px;
+    padding: 20px ;
+    gap:70px 70px;
+    color: white;
+
+    
+}
+
+
+
+
+.three{
+    button2{
+        background-color: rgb(40, 120, 40);
+        padding-left: 5dvh;
+        padding-top:6%;
+        border-radius: 30px;
+        border:5px;
+        font-size:larger;
+        font-weight: bolder;
+        color: white;
+        
+        
+    }
+    button3{
+        background-color: rgb(183, 234, 183);
+        padding-left: 50px;
+        padding-top:5%;
+        border-radius: 30px;
+        border:5px ;
+        font-size:larger;
+        color: black;
+     
+        
+    }
+
+}
